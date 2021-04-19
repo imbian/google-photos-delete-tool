@@ -13,6 +13,9 @@ Follow the step-by-step instructions below to run the tool.
 The manual steps assume that these steps are performed on the Google Chrome Browser. If you're using a different browser, the steps still remain the same, however, the keyboard shortcuts or browser specific keywords may not be same for you, as described below.
 
 ## Steps
+
+小技巧：缩小网页一次性可以删除更多照片，但是不能删除太多，会出错，试着来
+
 1) [Login into your Google Account](https://accounts.google.com/ServiceLogin).
 
 ![Google Account Sign-in Page](images/google-signin-page.jpg)
